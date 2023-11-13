@@ -11,7 +11,7 @@ BlackBird is a rapid TCP port scanner based in Python 3.9, created by Abel Maldo
 • User-Friendly
 
 # Download
-https://github.com/areqma/BlackBird.git
+git clone https://github.com/areqma/BlackBird.git
 
 cd BlackBird
 
