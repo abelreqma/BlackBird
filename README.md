@@ -15,8 +15,6 @@ git clone https://github.com/areqma/BlackBird.git
 
 cd BlackBird
 
-pip install -r requirements.txt
-
 # Usage
 python3 main.py {Target Host} {Start Port} {End Port}
 
